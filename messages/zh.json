@@ -1,0 +1,153 @@
+{
+  "TabTitle": {
+    "home": "山脊房地产集团"
+  },
+  "HomePage": {
+    "h1": "玛西·梅茨格",
+    "title": "山脊房地产集团",
+    "p": "帕伦普房产经纪人",
+    "button1": "立即致电"
+  },
+  "SearchSection": {
+    "title": "寻找您的梦想之家",
+    "subtitle": "从我们精心挑选的房源中搜索，发现最适合您的家。",
+    "location": "位置",
+    "type": "房产类型",
+    "sortBy": "排序方式",
+    "bedrooms": "卧室",
+    "baths": "浴室",
+    "minPrice": "最低价格",
+    "maxPrice": "最高价格",
+    "searchNow": "立即搜索",
+    "any": "不限",
+    "options": {
+      "house": "独立屋",
+      "condo": "公寓",
+      "apartment": "套房",
+      "lot": "土地",
+      "default": "默认",
+      "priceLowHigh": "价格：从低到高",
+      "priceHighLow": "价格：从高到低",
+      "newest": "最新发布"
+    },
+    "placeholders": {
+      "location": "输入城市或地区",
+      "any": "不限",
+      "min": "¥ 最低",
+      "max": "¥ 最高"
+    }
+  },
+  "StepsSection": {
+  "h2": "卖出去",
+  "steps": [
+    {
+      "title": "过去五年的顶级住宅销售",
+      "description": "我们在2021年帮助了近90位客户，完成了2850万美元的销售！我们的团队不断努力学习与成长，持续为客户提供卓越的服务和成果。"
+    },
+    {
+      "title": "不仅仅是挂牌……",
+      "description": "要卖掉它！我们为每个房产制定战略营销计划——专业摄影、网络曝光和买家推广，确保您的房屋以最高价售出。"
+    },
+    {
+      "title": "买家指南",
+      "description": "凭借数十年的市场经验，我们将在每一步为您提供指导——从定价建议到装修建议，再到值得信赖的承包商推荐。"
+    }
+  ]
+},
+  "ServicesSection": {
+    "h2": "我们的房产服务",
+    "services": [
+      {
+        "title": "正确的房地产方式",
+        "description": "对买卖房产感到紧张？别担心。无论您是买房、卖房还是投资，我们的团队都会确保从头到尾为您提供顺畅的体验。"
+      },
+      {
+        "title": "商业与住宅",
+        "description": "从公寓到豪宅，从小型办公室到商业空间——我们熟悉本地市场的每一个细节。让我们帮您找到最合适的房产。"
+      },
+      {
+        "title": "依靠专业",
+        "description": "不确定贷款、预算或市场时机？我们会为您联系值得信赖的专业人士，并在每个财务细节上为您提供指导。"
+      }
+    ]
+  },
+  "CarouselSection": {
+  "h1": "精选房源"
+  },
+  
+  "About": {
+    "name": "玛西·梅兹格",
+    "title": "拥有近30年经验的房地产经纪人！",
+    "phone": "206-919-6886",
+    "alt": "玛西·梅兹格 房地产经纪人"
+  },
+  
+  "Contact": {
+    "title": "联系我们",
+    "subtitle": "我们在这里帮助您找到理想的房产。打电话、来访或发送消息——我们的团队随时为您服务。",
+    "cards": {
+      "call": {
+        "title": "致电我们",
+        "description": "直接与我们的代理沟通。"
+      },
+      "visit": {
+        "title": "来访我们",
+        "description": "欢迎到我们办公室进行房产咨询。"
+      },
+      "email": {
+        "title": "发送邮件",
+        "description": "发送问题或预约看房。"
+      }
+    },
+    "officeHours": {
+      "title": "办公时间",
+      "openDaily": "每日营业：上午 8:00 - 下午 7:00",
+      "openToday": "今日营业：上午 8:00 - 下午 7:00"
+    },
+    "form": {
+      "title": "发送留言",
+      "name": "姓名",
+      "email": "邮箱",
+      "message": "留言",
+      "placeholderName": "您的姓名",
+      "placeholderEmail": "you@example.com",
+      "placeholderMessage": "告诉我们您的需求…",
+      "button": "发送"
+    }
+  },
+  
+  "Footer": {
+    "companyName": "DreamEstate",
+    "companyDescription": "自信地寻找您的下一个家。我们提供最优质的房产和可靠的服务，助您实现置业梦想。",
+    "quickLinks": {
+      "title": "快速链接",
+      "about": "关于我们",
+      "services": "我们的服务",
+      "listings": "房源列表",
+      "contact": "联系我们"
+    },
+    "contact": {
+      "title": "联系",
+      "address": "3190 HW-160, Suite F, Pahrump, Nevada 89048, 美国",
+      "phone": "(206) 919-6886",
+      "email": "marcimetzger@gmail.com"
+    },
+    "socials": {
+      "title": "关注我们"
+    },
+    "bottomText": "Marci METZGER Homes. 版权所有。"
+  },
+  
+  "Navbar": {
+    "siteName": "玛尔西·梅茨格房产",
+    "languageLabel": "语言"
+  
+}
+
+
+
+
+
+
+
+}

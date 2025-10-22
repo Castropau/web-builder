@@ -1,0 +1,155 @@
+{
+  "TabTitle": {
+    "home": "The Ridge Realty Group"
+  },
+  "HomePage": {
+    "h1": "Marci Metzger",
+    "title": "The Ridge Realty Group",
+    "p": "Agent immobilier à Pahrump",
+    "button1": "Appeler maintenant"
+  },
+  "SearchSection": {
+    "title": "Trouvez la maison de vos rêves",
+    "subtitle": "Recherchez dans notre liste sélectionnée de propriétés et découvrez celle qui vous correspond parfaitement.",
+    "location": "Emplacement",
+    "type": "Type de propriété",
+    "sortBy": "Trier par",
+    "bedrooms": "Chambres",
+    "baths": "Salles de bain",
+    "minPrice": "Prix minimum",
+    "maxPrice": "Prix maximum",
+    "searchNow": "Rechercher maintenant",
+    "any": "N'importe lequel",
+    "options": {
+      "house": "Maison",
+      "condo": "Condo",
+      "apartment": "Appartement",
+      "lot": "Terrain",
+      "default": "Par défaut",
+      "priceLowHigh": "Prix : du plus bas au plus élevé",
+      "priceHighLow": "Prix : du plus élevé au plus bas",
+      "newest": "Le plus récent"
+    },
+    "placeholders": {
+      "location": "Entrez une ville ou une zone",
+      "any": "N'importe lequel",
+      "min": "₱ Min",
+      "max": "₱ Max"
+    }
+  },
+  "StepsSection": {
+  "h2": "Vendez-le",
+  "steps": [
+    {
+      "title": "Meilleures ventes résidentielles des 5 dernières années",
+      "description": "Nous avons aidé près de 90 clients en 2021 et réalisé 28,5 millions de dollars de ventes ! Notre équipe travaille sans relâche pour grandir, apprendre et offrir un service exceptionnel année après année."
+    },
+    {
+      "title": "Ne vous contentez pas de l’inscrire…",
+      "description": "Vendez-le ! Nous commercialisons chaque bien de manière stratégique — photographie professionnelle, visibilité en ligne et contact avec les acheteurs pour garantir le meilleur prix pour votre maison."
+    },
+    {
+      "title": "Guide des acheteurs",
+      "description": "Avec des décennies d’expérience sur le marché, nous vous guiderons à chaque étape — de l’évaluation du prix aux conseils de rénovation et aux recommandations d’entrepreneurs de confiance."
+    }
+  ]
+},
+
+  "ServicesSection": {
+    "h2": "Nos Services Immobiliers",
+    "services": [
+      {
+        "title": "L’immobilier bien fait",
+        "description": "Inquiet à propos de votre projet immobilier ? Ne le soyez pas. Que vous achetiez, vendiez ou investissiez, notre équipe veille à vous offrir une expérience fluide du début à la fin."
+      },
+      {
+        "title": "Commercial et Résidentiel",
+        "description": "Des condos aux propriétés de luxe, des petits bureaux aux espaces commerciaux — nous connaissons parfaitement le marché local. Laissez-nous trouver la propriété idéale pour vos besoins."
+      },
+      {
+        "title": "Faites confiance à notre expertise",
+        "description": "Des doutes sur les prêts, le budget ou le bon moment ? Nous vous mettons en contact avec des professionnels de confiance et vous guidons à travers chaque étape financière."
+      }
+    ]
+  },
+  "CarouselSection": {
+    "h1": "Annonces en Vedette"
+    },
+    
+  "About": {
+    "name": "Marci Metzger",
+    "title": "AGENT IMMOBILIER DEPUIS PRÈS DE 3 DÉCENNIES !",
+    "phone": "206-919-6886",
+    "alt": "Marci Metzger Agent Immobilier"
+  },
+  
+  "Contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes là pour vous aider à trouver la propriété de vos rêves. Appelez-nous, visitez-nous ou envoyez un message — notre équipe est prête à vous aider.",
+    "cards": {
+      "call": {
+        "title": "Appelez-nous",
+        "description": "Parlez directement avec l’un de nos agents."
+      },
+      "visit": {
+        "title": "Visitez-nous",
+        "description": "Passez à notre bureau pour une consultation immobilière."
+      },
+      "email": {
+        "title": "Envoyez-nous un e-mail",
+        "description": "Envoyez vos questions ou planifiez une visite."
+      }
+    },
+    "officeHours": {
+      "title": "Heures d'ouverture",
+      "openDaily": "Ouvert tous les jours : 8h00 - 19h00",
+      "openToday": "Ouvert aujourd’hui : 8h00 - 19h00"
+    },
+    "form": {
+      "title": "Envoyez-nous un message",
+      "name": "Nom",
+      "email": "E-mail",
+      "message": "Message",
+      "placeholderName": "Votre nom",
+      "placeholderEmail": "vous@example.com",
+      "placeholderMessage": "Dites-nous comment nous pouvons vous aider...",
+      "button": "Envoyer le message"
+    }
+  },
+    "Footer": {
+    "companyName": "DreamEstate",
+    "companyDescription": "Découvrez votre prochain foyer en toute confiance. Nous offrons les meilleures propriétés et un service fiable pour réaliser vos rêves immobiliers.",
+    "quickLinks": {
+      "title": "Liens Rapides",
+      "about": "À Propos",
+      "services": "Nos Services",
+      "listings": "Annonces",
+      "contact": "Contact"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "3190 HW-160, Suite F, Pahrump, Nevada 89048, États-Unis",
+      "phone": "(206) 919-6886",
+      "email": "marcimetzger@gmail.com"
+    },
+    "socials": {
+      "title": "Suivez-nous"
+    },
+    "bottomText": "Marci METZGER Homes. Tous droits réservés."
+  },
+  
+  "Navbar": {
+    "siteName": "Marci Metzger Homes",
+    "languageLabel": "Langue"
+  }
+
+
+
+
+
+
+
+
+
+
+}

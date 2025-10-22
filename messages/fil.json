@@ -1,0 +1,155 @@
+{
+  "TabTitle": {
+    "home": "The Ridge Realty Group"
+  },
+  "HomePage": {
+    "h1": "Marci Metzger",
+    "title": "The Ridge Realty Group",
+    "p": "Realtor ng Pahrump",
+    "button1": "Tumawag Ngayon"
+  },
+  "SearchSection": {
+    "title": "Hanapin ang Iyong Dream Home",
+    "subtitle": "Maghanap mula sa aming piniling listahan ng mga ari-arian at tuklasin ang iyong perpektong tahanan.",
+    "location": "Lokasyon",
+    "type": "Uri ng Ari-arian",
+    "sortBy": "Ayusin Ayon sa",
+    "bedrooms": "Mga Kuwarto",
+    "baths": "Mga Banyo",
+    "minPrice": "Pinakamababang Presyo",
+    "maxPrice": "Pinakamataas na Presyo",
+    "searchNow": "Maghanap Ngayon",
+    "any": "Kahit Ano",
+    "options": {
+      "house": "Bahay",
+      "condo": "Condo",
+      "apartment": "Apartment",
+      "lot": "Lote",
+      "default": "Default",
+      "priceLowHigh": "Presyo: Mababâ Hanggang Mataas",
+      "priceHighLow": "Presyo: Mataas Hanggang Mababâ",
+      "newest": "Pinakabago"
+    },
+    "placeholders": {
+      "location": "Ilagay ang lungsod o lugar",
+      "any": "Kahit ano",
+      "min": "₱ Pinakamababa",
+      "max": "₱ Pinakamataas"
+    }
+  },
+  "StepsSection": {
+  "h2": "Ibenta Ito",
+  "steps": [
+    {
+      "title": "Pinakamataas na Benta ng Tirahan sa Nakaraang 5 Taon",
+      "description": "Tumulong kami sa halos 90 kliyente noong 2021 at nakapagsara ng ₱28.5 milyon sa mga benta! Patuloy na nagsusumikap ang aming team upang matuto at magbigay ng pinakamahusay na serbisyo taon-taon."
+    },
+    {
+      "title": "Huwag lang itong i-lista...",
+      "description": "Ibenta ito! Ibinibenta namin ang bawat property nang may estratehiya — propesyonal na litrato, online visibility, at direktang pag-abot sa mga mamimili para makuha ang pinakamagandang halaga."
+    },
+    {
+      "title": "Gabay para sa mga Mamimili",
+      "description": "Sa mga taon ng karanasan sa merkado, gagabayan ka namin sa bawat hakbang — mula sa pagpepresyo, payo sa renovation, hanggang sa mga maaasahang kontratista."
+    }
+  ]
+},
+
+  "ServicesSection": {
+    "h2": "Aming Serbisyo sa Real Estate",
+    "services": [
+      {
+        "title": "Tamang Paraan ng Real Estate",
+        "description": "Kinakabahan sa pagbili o pagbebenta ng ari-arian? Huwag kang mag-alala. Kung bumibili, nagbebenta, o nag-iinvest ka, sisiguraduhin naming maayos at magaan ang buong proseso para sa’yo."
+      },
+      {
+        "title": "Pang-Komersyal at Pang-Residente",
+        "description": "Mula sa mga condo hanggang sa mga luxury estate, maliliit na opisina hanggang sa malalaking komersyal na espasyo — kabisado namin ang lokal na merkado. Hayaan kaming maghanap ng property na akma sa iyong layunin."
+      },
+      {
+        "title": "Magtiwala sa Eksperto",
+        "description": "Hindi sigurado sa budget, loan, o timing ng merkado? Ikokonekta ka namin sa mga pinagkakatiwalaang propesyonal at gagabayan ka sa bawat detalye ng pinansyal na proseso."
+      }
+    ]
+  },
+  "CarouselSection": {
+    "h1": "Mga Tampok na Listahan"
+  },
+  
+  "About": {
+    "name": "Marci Metzger",
+    "title": "REALTOR SA HALOS 3 DEKADA NA!",
+    "phone": "206-919-6886",
+    "alt": "Marci Metzger Realtor"
+  },
+  
+  "Contact": {
+    "title": "Makipag-ugnayan",
+    "subtitle": "Narito kami upang tulungan kang mahanap ang iyong dream property. Tumawag, bumisita, o magpadala ng mensahe — handang tumulong ang aming team.",
+    "cards": {
+      "call": {
+        "title": "Tumawag sa Amin",
+        "description": "Makipag-usap direkta sa isa sa aming mga ahente."
+      },
+      "visit": {
+        "title": "Bumisita sa Amin",
+        "description": "Pumunta sa aming opisina para sa konsultasyon sa ari-arian."
+      },
+      "email": {
+        "title": "I-email Kami",
+        "description": "Ipadala ang iyong mga tanong o mag-iskedyul ng pagbisita."
+      }
+    },
+    "officeHours": {
+      "title": "Oras ng Opisina",
+      "openDaily": "Bukas Araw-Araw: 8:00 AM - 7:00 PM",
+      "openToday": "Bukas Ngayon: 8:00 AM - 7:00 PM"
+    },
+    "form": {
+      "title": "Magpadala ng Mensahe",
+      "name": "Pangalan",
+      "email": "Email",
+      "message": "Mensahe",
+      "placeholderName": "Iyong pangalan",
+      "placeholderEmail": "ikaw@example.com",
+      "placeholderMessage": "Sabihin sa amin kung paano ka namin matutulungan...",
+      "button": "Ipadala"
+    }
+  },
+  
+  "Footer": {
+    "companyName": "DreamEstate",
+    "companyDescription": "Tuklasin ang iyong susunod na tahanan nang may kumpiyansa. Nagbibigay kami ng pinakamahusay na mga ari-arian at mapagkakatiwalaang serbisyo upang matupad ang iyong mga pangarap sa real estate.",
+    "quickLinks": {
+      "title": "Mabilis na Link",
+      "about": "Tungkol sa Amin",
+      "services": "Aming mga Serbisyo",
+      "listings": "Mga Ari-arian",
+      "contact": "Makipag-ugnayan"
+    },
+    "contact": {
+      "title": "Makipag-ugnayan",
+      "address": "3190 HW-160, Suite F, Pahrump, Nevada 89048, United States",
+      "phone": "(206) 919-6886",
+      "email": "marcimetzger@gmail.com"
+    },
+    "socials": {
+      "title": "Sundan Kami"
+    },
+    "bottomText": "Marci METZGER Homes. Lahat ng karapatan ay nakalaan."
+  },
+  
+  "Navbar": {
+    "siteName": "Marci Metzger Homes",
+    "languageLabel": "Wika"
+  }
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,158 @@
+{
+  "TabTitle": {
+    "home": "The Ridge Realty Group"
+  },
+  "HomePage": {
+    "h1": "Marci Metzger",
+    "title": "The Ridge Realty Group",
+    "p": "Pahrump Realtor",
+    "button1": "Call Now"
+  },
+  "SearchSection": {
+    "title": "Find Your Dream Home",
+    "subtitle": "Search from our curated list of properties and discover your perfect match.",
+    "location": "Location",
+    "type": "Property Type",
+    "sortBy": "Sort By",
+    "bedrooms": "Bedrooms",
+    "baths": "Baths",
+    "minPrice": "Min Price",
+    "maxPrice": "Max Price",
+    "searchNow": "Search Now",
+    "any": "Any",
+    "options": {
+      "house": "House",
+      "condo": "Condo",
+      "apartment": "Apartment",
+      "lot": "Lot",
+      "default": "Default",
+      "priceLowHigh": "Price: Low to High",
+      "priceHighLow": "Price: High to Low",
+      "newest": "Newest"
+    },
+    "placeholders": {
+      "location": "Enter city or area",
+      "any": "Any",
+      "min": "₱ Min",
+      "max": "₱ Max"
+    }
+  },
+  "StepsSection": {
+    "h2": "get in sold",
+    "steps": [
+      {
+        "title": "Top Residential Sales Last 5 Years",
+        "description": "We helped nearly 90 clients in 2021 and closed $28.5 million in sales! Our team works tirelessly to grow, learn, and excel so that we continue to deliver top-tier service and results year after year."
+      },
+      {
+        "title": "Don’t Just List It…",
+        "description": "Get it SOLD! We market every property strategically — professional photography, online visibility, and buyer outreach to ensure top dollar for your home."
+        
+      },
+      {
+        "title": "Guide to Buyers",
+        "description": "With decades of market knowledge, we’ll guide you through every step — from pricing insights to renovation advice and trusted contractor recommendations."
+      }
+    ]
+  },
+  
+  "ServicesSection": {
+    "h2": "Our Real Estate Services",
+    "services": [
+      {
+        "title": "Real Estate Done Right",
+        "description": "Nervous about your property adventure? Don’t be. Whether you're buying, selling, or investing, our team ensures you get the smoothest experience possible from start to finish."
+      },
+      {
+        "title": "Commercial & Residential",
+        "description": "From condos to luxury estates, small offices to commercial spaces — we know the local market inside and out. Let us find the property that fits your goals perfectly."
+      
+      },
+      {
+        "title": "Rely on Expertise",
+        "description": "Unsure about affordability, loans, or market timing? We’ll connect you with trusted professionals and guide you through every financial detail confidently."
+        
+      }
+    ]
+  },
+  "CarouselSection": {
+    "h1": "Featured Listings"
+  },
+  
+  "About": {
+    "name": "Marci Metzger",
+    "title": "REALTOR FOR NEARLY 3 DECADES!",
+    "phone": "206-919-6886",
+    "alt": "Marci Metzger Realtor"
+  },
+  
+  "Contact": {
+    "title": "Get In Touch",
+    "subtitle": "We’re here to help you find your dream property. Call, visit, or send us a message — our team is ready to assist you.",
+    "cards": {
+      "call": {
+        "title": "Call Us",
+        "description": "Speak directly with one of our agents."
+      },
+      "visit": {
+        "title": "Visit Us",
+        "description": "Drop by our office for property consultations."
+      },
+      "email": {
+        "title": "Email Us",
+        "description": "Send us your questions or schedule a viewing."
+      }
+    },
+    "officeHours": {
+      "title": "Office Hours",
+      "openDaily": "Open Daily: 8:00 AM - 7:00 PM",
+      "openToday": "Open Today: 8:00 AM - 7:00 PM"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "placeholderName": "Your name",
+      "placeholderEmail": "you@example.com",
+      "placeholderMessage": "Tell us how we can help...",
+      "button": "Send Message"
+    }
+  
+},
+
+  "Footer": {
+    "companyName": "DreamEstate",
+    "companyDescription": "Discover your next home with confidence. We provide the best properties and trusted service to make your real estate dreams a reality.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "about": "About Us",
+      "services": "Our Services",
+      "listings": "Listings",
+      "contact": "Contact"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "3190 HW-160, Suite F, Pahrump, Nevada 89048, United States",
+      "phone": "(206) 919-6886",
+      "email": "marcimetzger@gmail.com"
+    },
+    "socials": {
+      "title": "Follow Us"
+    },
+    "bottomText": "Marci METZGER Homes. All rights reserved."
+  },
+  
+  "Navbar": {
+    "siteName": "Marci Metzger Homes",
+    "languageLabel": "Language"
+  
+}
+
+
+
+
+
+
+
+}

@@ -1,0 +1,154 @@
+{
+  "TabTitle": {
+    "home": "The Ridge Realty Group"
+  },
+  "HomePage": {
+    "h1": "Marci Metzger",
+    "title": "The Ridge Realty Group",
+    "p": "Agente inmobiliaria en Pahrump",
+    "button1": "Llamar ahora"
+  },
+  "SearchSection": {
+    "title": "Encuentra la casa de tus sueños",
+    "subtitle": "Busca entre nuestra lista seleccionada de propiedades y descubre tu pareja perfecta.",
+    "location": "Ubicación",
+    "type": "Tipo de propiedad",
+    "sortBy": "Ordenar por",
+    "bedrooms": "Dormitorios",
+    "baths": "Baños",
+    "minPrice": "Precio mínimo",
+    "maxPrice": "Precio máximo",
+    "searchNow": "Buscar ahora",
+    "any": "Cualquiera",
+    "options": {
+      "house": "Casa",
+      "condo": "Condominio",
+      "apartment": "Apartamento",
+      "lot": "Lote",
+      "default": "Predeterminado",
+      "priceLowHigh": "Precio: de menor a mayor",
+      "priceHighLow": "Precio: de mayor a menor",
+      "newest": "Más reciente"
+    },
+    "placeholders": {
+      "location": "Ingrese ciudad o área",
+      "any": "Cualquiera",
+      "min": "₱ Mínimo",
+      "max": "₱ Máximo"
+    }
+  },
+  "StepsSection": {
+  "h2": "¡Véndelo!",
+  "steps": [
+    {
+      "title": "Mayores ventas residenciales en los últimos 5 años",
+      "description": "¡Ayudamos a casi 90 clientes en 2021 y cerramos $28.5 millones en ventas! Nuestro equipo trabaja incansablemente para crecer, aprender y sobresalir, brindando un servicio y resultados de primer nivel año tras año."
+    },
+    {
+      "title": "No solo lo listes...",
+      "description": "¡Véndelo! Comercializamos cada propiedad estratégicamente: fotografía profesional, visibilidad en línea y alcance de compradores para garantizar el mejor precio para tu hogar."
+    },
+    {
+      "title": "Guía para compradores",
+      "description": "Con décadas de conocimiento del mercado, te guiaremos en cada paso: desde información de precios hasta asesoramiento en renovaciones y recomendaciones de contratistas confiables."
+    }
+  ]
+},
+
+  "ServicesSection": {
+    "h2": "Nuestros Servicios Inmobiliarios",
+    "services": [
+      {
+        "title": "Bienes Raíces Hechos Correctamente",
+        "description": "¿Nervioso por tu aventura inmobiliaria? No te preocupes. Ya sea que compres, vendas o inviertas, nuestro equipo garantiza que tengas la experiencia más fluida de principio a fin."
+      },
+      {
+        "title": "Comercial y Residencial",
+        "description": "Desde condominios hasta propiedades de lujo, desde pequeñas oficinas hasta espacios comerciales — conocemos el mercado local a la perfección. Déjanos encontrar la propiedad que se adapte a tus objetivos."
+      },
+      {
+        "title": "Confía en la Experiencia",
+        "description": "¿No estás seguro sobre precios, préstamos o el momento del mercado? Te conectaremos con profesionales de confianza y te guiaremos en cada detalle financiero con seguridad."      }
+    ]
+  },
+  "CarouselSection": {
+    "h1": "Propiedades Destacadas"
+    },
+    
+  "About": {
+    "name": "Marci Metzger",
+    "title": "¡AGENTE INMOBILIARIA POR CASI 3 DÉCADAS!",
+    "phone": "206-919-6886",
+    "alt": "Marci Metzger Agente Inmobiliaria"
+  
+},
+
+  "Contact": {
+    "title": "Ponte en contacto",
+    "subtitle": "Estamos aquí para ayudarte a encontrar la propiedad de tus sueños. Llama, visítanos o envíanos un mensaje — nuestro equipo está listo para asistirte.",
+    "cards": {
+      "call": {
+        "title": "Llámanos",
+        "description": "Habla directamente con uno de nuestros agentes."
+      },
+      "visit": {
+        "title": "Visítanos",
+        "description": "Ven a nuestra oficina para consultas inmobiliarias."
+      },
+      "email": {
+        "title": "Envíanos un correo",
+        "description": "Manda tus preguntas o agenda una visita."
+      }
+    },
+    "officeHours": {
+      "title": "Horario de oficina",
+      "openDaily": "Abierto todos los días: 8:00 AM - 7:00 PM",
+      "openToday": "Abierto hoy: 8:00 AM - 7:00 PM"
+    },
+    "form": {
+      "title": "Envíanos un mensaje",
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "message": "Mensaje",
+      "placeholderName": "Tu nombre",
+      "placeholderEmail": "tú@ejemplo.com",
+      "placeholderMessage": "Cuéntanos cómo podemos ayudarte...",
+      "button": "Enviar mensaje"
+    }
+  
+},
+
+  "Footer": {
+    "companyName": "DreamEstate",
+    "companyDescription": "اكتشف منزلك القادم بثقة. نحن نقدم أفضل العقارات وخدمة موثوقة لتحقيق أحلامك العقارية.",
+    "quickLinks": {
+      "title": "روابط سريعة",
+      "about": "معلومات عنا",
+      "services": "خدماتنا",
+      "listings": "العقارات",
+      "contact": "اتصل بنا"
+    },
+    "contact": {
+      "title": "تواصل معنا",
+      "address": "3190 HW-160، الجناح F، بارامب، نيفادا 89048، الولايات المتحدة",
+      "phone": "(206) 919-6886",
+      "email": "marcimetzger@gmail.com"
+    },
+    "socials": {
+      "title": "تابعنا"
+    },
+    "bottomText": "Marci METZGER Homes. جميع الحقوق محفوظة."
+  },
+  
+  "Navbar": {
+    "siteName": "Marci Metzger Homes",
+    "languageLabel": "Idioma"
+  }
+
+
+
+
+
+
+
+}
