@@ -6,13 +6,14 @@ import { useTranslations } from "next-intl";
 
 const Contact = () => {
   const t = useTranslations("Contact");
-const [isClient, setIsClient] = useState(false);
+  const [isClient, setIsClient] = useState(false);
 
   useEffect(() => {
     setIsClient(true);
   }, []);
 
-  if (!isClient) return null; 
+  if (!isClient) return null;
+
   const fadeUp: Variants = {
     hidden: { opacity: 0, y: 40 },
     visible: (i: number) => ({
@@ -22,18 +23,36 @@ const [isClient, setIsClient] = useState(false);
     }),
   };
 
-
-const contactMethods = [
-  { icon: <Phone className="w-8 h-8" />, titleKey: "cards.call.title", descriptionKey: "cards.call.description", link: "tel:(206) 919-6886", value: "(206) 919-6886" },
-  { icon: <MapPin className="w-8 h-8" />, titleKey: "cards.visit.title", descriptionKey: "cards.visit.description", value: "3190 HW-160, Suite F, Pahrump, Nevada 89048, United States" },
-  { icon: <Mail className="w-8 h-8" />, titleKey: "cards.email.title", descriptionKey: "cards.email.description", link: "mailto:marcimetzger@gmail.com", value: "marcimetzger@gmail.com" },
-];
+  const contactMethods = [
+    {
+      icon: <Phone className="w-8 h-8" />,
+      titleKey: "cards.call.title",
+      descriptionKey: "cards.call.description",
+      link: "tel:(206) 919-6886",
+      value: "(206) 919-6886",
+    },
+    {
+      icon: <MapPin className="w-8 h-8" />,
+      titleKey: "cards.visit.title",
+      descriptionKey: "cards.visit.description",
+      value:
+        "3190 HW-160, Suite F, Pahrump, Nevada 89048, United States",
+    },
+    {
+      icon: <Mail className="w-8 h-8" />,
+      titleKey: "cards.email.title",
+      descriptionKey: "cards.email.description",
+      link: "mailto:marcimetzger@gmail.com",
+      value: "marcimetzger@gmail.com",
+    },
+  ];
 
   return (
     <section className="relative w-full bg-gradient-to-b from-[#f9f7f3] to-[#f4efe8] dark:from-[#0a0a0f] dark:to-[#12131a] py-24 overflow-hidden">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_rgba(245,158,11,0.07)_0%,_transparent_80%)] pointer-events-none" />
 
       <div className="relative max-w-6xl mx-auto px-6 z-10">
+        {/* Title */}
         <motion.h2
           className="text-4xl md:text-5xl font-extrabold text-amber-600 dark:text-amber-400 text-center"
           initial={{ opacity: 0, y: -30 }}
@@ -54,35 +73,50 @@ const contactMethods = [
           {t("subtitle")}
         </motion.p>
 
+        {/* Contact Cards */}
         <div className="mt-16 grid gap-8 md:grid-cols-3">
-         
           {contactMethods.map((item, i) => (
-  <motion.div
-    key={i}
-    custom={i}
-    variants={fadeUp}
-    initial="hidden"
-    whileInView="visible"
-    viewport={{ once: true, amount: 0.3 }}
-    className="bg-white dark:bg-gray-900 rounded-2xl shadow-md p-10 hover:shadow-xl transition-all duration-500"
-  >
-    <div className="flex justify-center mb-4">
-      <div className="bg-amber-100 dark:bg-amber-800/40 p-4 rounded-full">
-        {item.icon}
-      </div>
-    </div>
-    <h3 className="text-xl font-semibold text-gray-900 dark:text-white">
-      {t(item.titleKey)}
-    </h3>
-    <p className="mt-2 text-gray-600 dark:text-gray-300">
-      {t(item.descriptionKey)}
-    </p>
-    
-  </motion.div>
-))}
+            <motion.div
+              key={i}
+              custom={i}
+              variants={fadeUp}
+              initial="hidden"
+              whileInView="visible"
+              viewport={{ once: true, amount: 0.3 }}
+              className="bg-white dark:bg-gray-900 rounded-2xl shadow-md p-10 hover:shadow-xl transition-all duration-500 text-center"
+            >
+              <div className="flex justify-center mb-4">
+                <div className="bg-amber-100 dark:bg-amber-800/40 p-4 rounded-full">
+                  {item.icon}
+                </div>
+              </div>
 
+              <h3 className="text-xl font-semibold text-gray-900 dark:text-white">
+                {t(item.titleKey)}
+              </h3>
+
+              <p className="mt-2 text-gray-600 dark:text-gray-300">
+                {t(item.descriptionKey)}
+              </p>
+
+              {/* ✅ Show value below description */}
+              {item.link ? (
+                <a
+                  href={item.link}
+                  className="mt-3 block text-amber-600 dark:text-amber-400 font-medium hover:underline"
+                >
+                  {item.value}
+                </a>
+              ) : (
+                <p className="mt-3 text-amber-600 dark:text-amber-400 font-medium">
+                  {item.value}
+                </p>
+              )}
+            </motion.div>
+          ))}
         </div>
 
+        {/* Office Hours */}
         <motion.div
           className="mt-20 flex flex-col md:flex-row items-center justify-between gap-10 bg-white/80 dark:bg-gray-900/80 backdrop-blur-md rounded-2xl p-10 shadow-lg"
           initial={{ opacity: 0, y: 40 }}
@@ -108,6 +142,7 @@ const contactMethods = [
           </div>
         </motion.div>
 
+        {/* Contact Form */}
         <motion.div
           className="mt-20 max-w-3xl mx-auto bg-white dark:bg-gray-900 rounded-2xl shadow-md p-10 text-left"
           initial={{ opacity: 0, y: 40 }}
