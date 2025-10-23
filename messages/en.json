@@ -92,15 +92,18 @@
     "cards": {
       "call": {
         "title": "Call Us",
-        "description": "Speak directly with one of our agents."
+        "description": "Speak directly with one of our agents.",
+        "tel": "(206) 919-6886"
       },
       "visit": {
         "title": "Visit Us",
-        "description": "Drop by our office for property consultations."
+        "description": "Drop by our office for property consultations.",
+        "address": "3190 HW-160, Suite F, Pahrump, Nevada 89048, United States"
       },
       "email": {
         "title": "Email Us",
-        "description": "Send us your questions or schedule a viewing."
+        "description": "Send us your questions or schedule a viewing.",
+        "email": "marcimetzger@gmail.com"
       }
     },
     "officeHours": {

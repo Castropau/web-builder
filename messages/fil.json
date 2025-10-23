@@ -89,11 +89,16 @@
     "cards": {
       "call": {
         "title": "Tumawag sa Amin",
-        "description": "Makipag-usap direkta sa isa sa aming mga ahente."
+        "description": "Makipag-usap direkta sa isa sa aming mga ahente.",
+        "tel": "(206) 919-6886"
       },
       "visit": {
         "title": "Bumisita sa Amin",
-        "description": "Pumunta sa aming opisina para sa konsultasyon sa ari-arian."
+        "description": "Pumunta sa aming opisina para sa konsultasyon sa ari-arian.",
+        "address": "3190 HW-160, Suite F, Pahrump, Nevada 89048, Estados Unidos",
+        "email": "marcimetzger@gmail.com"
+
+
       },
       "email": {
         "title": "I-email Kami",

@@ -89,15 +89,20 @@
     "cards": {
       "call": {
         "title": "전화 문의",
-        "description": "직접 상담을 원하시면 전화 주세요."
+        "description": "직접 상담을 원하시면 전화 주세요.",
+        "tel": "(206) 919-6886"
       },
       "visit": {
         "title": "방문하기",
-        "description": "사무실에 방문하여 상담을 받아보세요."
+        "description": "사무실에 방문하여 상담을 받아보세요.",
+        "address": "3190 HW-160, Suite F, Pahrump, Nevada 89048, 미국"
+
       },
       "email": {
         "title": "이메일 보내기",
-        "description": "문의사항이나 방문 일정을 이메일로 보내주세요."
+        "description": "문의사항이나 방문 일정을 이메일로 보내주세요.",
+        "email": "marcimetzger@gmail.com"
+
       }
     },
     "officeHours": {

@@ -28,22 +28,21 @@ const Contact = () => {
       icon: <Phone className="w-8 h-8" />,
       titleKey: "cards.call.title",
       descriptionKey: "cards.call.description",
+      valueKey: "cards.call.tel",
       link: "tel:(206) 919-6886",
-      value: "(206) 919-6886",
     },
     {
       icon: <MapPin className="w-8 h-8" />,
       titleKey: "cards.visit.title",
       descriptionKey: "cards.visit.description",
-      value:
-        "3190 HW-160, Suite F, Pahrump, Nevada 89048, United States",
+      valueKey: "cards.visit.address",
     },
     {
       icon: <Mail className="w-8 h-8" />,
       titleKey: "cards.email.title",
       descriptionKey: "cards.email.description",
+      valueKey: "cards.email.email",
       link: "mailto:marcimetzger@gmail.com",
-      value: "marcimetzger@gmail.com",
     },
   ];
 
@@ -99,17 +98,17 @@ const Contact = () => {
                 {t(item.descriptionKey)}
               </p>
 
-              {/* ✅ Show value below description */}
+              
               {item.link ? (
                 <a
                   href={item.link}
                   className="mt-3 block text-amber-600 dark:text-amber-400 font-medium hover:underline"
                 >
-                  {item.value}
+                  {t(item.valueKey)}
                 </a>
               ) : (
                 <p className="mt-3 text-amber-600 dark:text-amber-400 font-medium">
-                  {item.value}
+                  {t(item.valueKey)}
                 </p>
               )}
             </motion.div>
@@ -142,7 +141,6 @@ const Contact = () => {
           </div>
         </motion.div>
 
-        {/* Contact Form */}
         <motion.div
           className="mt-20 max-w-3xl mx-auto bg-white dark:bg-gray-900 rounded-2xl shadow-md p-10 text-left"
           initial={{ opacity: 0, y: 40 }}

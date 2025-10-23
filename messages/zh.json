@@ -88,15 +88,21 @@
     "cards": {
       "call": {
         "title": "致电我们",
-        "description": "直接与我们的代理沟通。"
+        "description": "直接与我们的代理沟通。",
+        "tel": "(206) 919-6886"
       },
       "visit": {
         "title": "来访我们",
-        "description": "欢迎到我们办公室进行房产咨询。"
+        "description": "欢迎到我们办公室进行房产咨询。",
+        "address": "美国内华达州帕伦普 HW-160 公路 3190 号 F 套房，邮编 89048"
+
+        
       },
       "email": {
         "title": "发送邮件",
-        "description": "发送问题或预约看房。"
+        "description": "发送问题或预约看房。",
+        "email": "marcimetzger@gmail.com"
+
       }
     },
     "officeHours": {
